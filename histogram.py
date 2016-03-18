@@ -1,3 +1,13 @@
+"""
+File: histogram.py
+
+Copyright (c) 2016 Lucas Blair
+
+License: MIT
+
+This program prints the number of asterisks as the user input data.
+""" 
+
 numbers = []
 response = " "
 
