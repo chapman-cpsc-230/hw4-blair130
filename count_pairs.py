@@ -1,3 +1,13 @@
+"""
+File: count_pairs.py
+
+Copyright (c) 2016 Lucas
+
+License: MIT
+
+this program counts the number of pairs of AT in a DNA sequence.
+""" 
+
 n_str = raw_input("Enter the DNA sequence:")
 
 def count_pairs(DNA, pair):
