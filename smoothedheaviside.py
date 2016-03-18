@@ -1,3 +1,13 @@
+"""
+File: smoothedheaiside.py
+
+Copyright (c) 2016 Lucas Blair
+
+License: MIT
+
+Prints the result of the corresponding equation for a inputed value of x.
+""" 
+
 from math import pi
 from math import sin
 
