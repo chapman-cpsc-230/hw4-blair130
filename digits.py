@@ -1,3 +1,13 @@
+"""
+File: digits.py
+
+Copyright (c) 2016 Lucas Blair
+
+License: MIT
+
+This program tells how many digits are in a number including negative signs.
+""" 
+
 n_str = raw_input ("Enter a natural number:")
 n = int(n_str)
 
