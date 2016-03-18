@@ -1,3 +1,13 @@
+"""
+File: enhancedhistogram.py
+
+Copyright (c) 2016 Lucas Blair
+
+License: MIT
+
+This program makes a chart of imput values with that number of asterisks following it.
+""" 
+
 numbers = []
 response = " "
 
